@@ -1,0 +1,1 @@
+{\n  "github": {\n    "server": {\n      "url": "https://github.com",\n      "token": "YOUR_GITHUB_TOKEN"\n    }\n  },\n  "filesystem": {\n    "path": "/path/to/your/filesystem"\n  },\n  "postgres": {\n    "host": "localhost",\n    "port": 5432,\n    "database": "your_database_name",\n    "user": "your_username",\n    "password": "your_password"\n  }\n}
